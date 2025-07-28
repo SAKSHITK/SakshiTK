@@ -30,12 +30,12 @@
 ---
 
 📫 **Connect with Me**
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-linkedin-url)
-- 📧 Email: your-email@example.com
+- 🌐 [LinkedIn]https://www.linkedin.com/in/sakshi-t-k-4b529b318?utm_source
+- 📧 Email: sakshitiralebailu@gmail.com
 
 ---
 
 🎯 **Hobbies**
 - 📖 Reading
 - 🏸 Playing games
-- 
+
